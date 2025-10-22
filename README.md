@@ -25,6 +25,7 @@ cd fleet-system
    Di folder project, buat file bernama .env
    Isi contoh untuk project fleet-system:
    # Database
+    POSTGRES_HOST=
     POSTGRES_USER=
     POSTGRES_PASSWORD=
     POSTGRES_DB=
